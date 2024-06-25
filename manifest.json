@@ -1,0 +1,11 @@
+{
+    "name": "CRICKTENSION",
+    "version": "1.0.0",
+    "description" : "Live Cricket Scores", 
+    "manifest_version":3,
+    "author":"Harmanjeet Singh",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"CRICKTENSION"
+    }
+}
